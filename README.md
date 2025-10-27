@@ -115,7 +115,6 @@ source = "/home/novo/Pictures/input" destination = "/home/novo/Pictures/organize
 
 This project is released under the **MIT License** — feel free to modify and use it for personal or commercial purposes.
 
----
-
-
+🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆
+🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆
 🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆
