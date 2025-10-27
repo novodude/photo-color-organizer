@@ -20,7 +20,7 @@ Each image is analyzed to detect its main color, then copied into a matching col
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **Analyze the image**  
     The script resizes each image (150×150) and counts RGB pixel frequencies to find the dominant color.
