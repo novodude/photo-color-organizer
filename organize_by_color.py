@@ -264,7 +264,7 @@ def organize_photos(source_folder, destination_folder):
 
 
 if __name__ == "__main__":
-    source = "/home/novo/Pictures/2024-2025_roll"
+    source = "/home/novo/Pictures/input"
     destination = "/home/novo/Pictures/organized_by_color"
 
     print("Starting photo organization by color with pywal-style extraction...\n")
